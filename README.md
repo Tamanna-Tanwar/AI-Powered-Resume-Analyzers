@@ -69,3 +69,5 @@ AI_Powered_Resume_Analyzer_and_Job_Matching_System.ipynb
 Project Type: Minor Project
 Domain: Artificial Intelligence / Natural Language Processing
 Language: Python
+<img width="746" height="641" alt="image" src="https://github.com/user-attachments/assets/63a1ef1a-ff3d-444c-8988-6f79855b73e4" />
+
